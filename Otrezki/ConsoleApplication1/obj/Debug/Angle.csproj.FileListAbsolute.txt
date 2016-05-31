@@ -1,0 +1,9 @@
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication1\obj\Debug\Angle.csprojResolveAssemblyReference.cache
+D:\Study\KPI\3_semestr\Geometry\Otrezki\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Study\KPI\3_semestr\Geometry\Otrezki\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Study\KPI\3_semestr\Geometry\Otrezki\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

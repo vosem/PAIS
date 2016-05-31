@@ -1,0 +1,9 @@
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+I:\3_semestr\Geometry\Otrezki\ConsoleApplication2\obj\Debug\Ne_rabotaet.csprojResolveAssemblyReference.cache
+D:\Temp\Otrezki\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Temp\Otrezki\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Temp\Otrezki\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
