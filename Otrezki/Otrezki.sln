@@ -5,10 +5,6 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otrezki", "Otrezki\Otrezki.csproj", "{9504118F-7C54-45D8-BD8C-61EC2CADA699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angle", "ConsoleApplication1\Angle.csproj", "{AC4BCF31-894C-488A-961B-F227518D6BC2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ne_rabotaet", "ConsoleApplication2\Ne_rabotaet.csproj", "{986BE6F0-2190-4805-B782-A98EC2FC6769}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{9504118F-7C54-45D8-BD8C-61EC2CADA699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9504118F-7C54-45D8-BD8C-61EC2CADA699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9504118F-7C54-45D8-BD8C-61EC2CADA699}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC4BCF31-894C-488A-961B-F227518D6BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC4BCF31-894C-488A-961B-F227518D6BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC4BCF31-894C-488A-961B-F227518D6BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC4BCF31-894C-488A-961B-F227518D6BC2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{986BE6F0-2190-4805-B782-A98EC2FC6769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{986BE6F0-2190-4805-B782-A98EC2FC6769}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{986BE6F0-2190-4805-B782-A98EC2FC6769}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{986BE6F0-2190-4805-B782-A98EC2FC6769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
